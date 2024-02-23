@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/learn/lesson/proj/mprpc/build/src",
+  "command": "/usr/bin/g++  -Dmprpc_EXPORTS -I/home/learn/lesson/proj/mprpc/src/include -I/home/learn/lesson/proj/mprpc/example  -g -fPIC   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/learn/lesson/proj/mprpc/src/mprpcapplication.cc",
+  "file": "/home/learn/lesson/proj/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/learn/lesson/proj/mprpc/build/src",
+  "command": "/usr/bin/g++  -Dmprpc_EXPORTS -I/home/learn/lesson/proj/mprpc/src/include -I/home/learn/lesson/proj/mprpc/example  -g -fPIC   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/learn/lesson/proj/mprpc/src/mprpcconfig.cc",
+  "file": "/home/learn/lesson/proj/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/learn/lesson/proj/mprpc/build/src",
+  "command": "/usr/bin/g++  -Dmprpc_EXPORTS -I/home/learn/lesson/proj/mprpc/src/include -I/home/learn/lesson/proj/mprpc/example  -g -fPIC   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/learn/lesson/proj/mprpc/src/rpcprovider.cc",
+  "file": "/home/learn/lesson/proj/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/learn/lesson/proj/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/learn/lesson/proj/mprpc/src/include -I/home/learn/lesson/proj/mprpc/example  -g   -o CMakeFiles/provider.dir/userservice.cc.o -c /home/learn/lesson/proj/mprpc/example/callee/userservice.cc",
+  "file": "/home/learn/lesson/proj/mprpc/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/learn/lesson/proj/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/learn/lesson/proj/mprpc/src/include -I/home/learn/lesson/proj/mprpc/example  -g   -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/learn/lesson/proj/mprpc/example/user.pb.cc",
+  "file": "/home/learn/lesson/proj/mprpc/example/user.pb.cc"
+}
+]
